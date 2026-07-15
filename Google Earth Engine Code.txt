@@ -1,0 +1,7 @@
+ERA5:
+https://code.earthengine.google.com/908206e002db6660c1968915c70d64d9
+https://code.earthengine.google.com/6b2e831cfc18f886d9fab6b900cbd0a0
+
+Global Flood Map:
+https://code.earthengine.google.com/cefbbdc89ccc7cc42564732fe0000c99
+https://code.earthengine.google.com/c3c2e6d1ee542a8aa204f00e355aec22
